@@ -20,5 +20,12 @@
     ],
     "require": {
         "php": ">=7.3.17"
+    },
+    "autoload" : {
+        "files" :
+        [
+            "constant.php",
+            "functions.php"
+        ]
     }
 }
