@@ -1,0 +1,24 @@
+{
+    "name": "gg/frame",
+    "description": "更广天地公司前端业务框架",
+    "type" : "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "lifeng",
+            "email": "3453719@qq.com"
+        },
+        {
+            "name": "hefan",
+            "email": "hefan86@foxmail.com"
+        },
+        {
+            "name": "liuhuiping",
+            "email": "403373639@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.17"
+    }
+}
