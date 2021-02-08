@@ -3,10 +3,10 @@
 namespace Gg\Frame\Kernel;
 
 use Components\Jwt;
-use Gg\Database\Database;
-use Gg\Database\Redis;
-use Gg\Http\Request;
-use Gg\Middleware\Middleware;
+use Gg\Frame\Database\Database;
+use Gg\Frame\Database\Redis;
+use Gg\Frame\Http\Request;
+use Gg\Frame\Middleware\Middleware;
 use Yaf\Bootstrap_Abstract;
 use Yaf\Dispatcher;
 use Yaf\Loader;

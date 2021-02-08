@@ -1,6 +1,6 @@
 {
     "name": "gg/frame",
-    "description": "更广天地公司前端业务框架",
+    "description": "更广天地前端业务框架",
     "type" : "library",
     "license": "MIT",
     "minimum-stability": "stable",
