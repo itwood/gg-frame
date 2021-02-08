@@ -1,6 +1,6 @@
 <?php
 
-namespace Gg\Middleware;
+namespace Gg\Frame\Middleware;
 
 use Middleware\Auth;
 

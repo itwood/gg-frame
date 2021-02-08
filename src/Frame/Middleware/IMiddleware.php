@@ -1,6 +1,6 @@
 <?php
 
-namespace Gg\Middleware;
+namespace Gg\Frame\Middleware;
 interface IMiddleware
 {
     public function isFilter(\Yaf\Request_Abstract $request): bool;
