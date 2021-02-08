@@ -1,6 +1,6 @@
 <?php
 
-namespace Gg\Http;
+namespace Gg\Frame\Http;
 
 /**
  * Class Request

@@ -1,6 +1,6 @@
 <?php
 
-namespace Gg\Kernel;
+namespace Gg\Frame\Kernel;
 
 /**
  * 定义

@@ -1,6 +1,6 @@
 <?php
 
-namespace Gg\Database;
+namespace Gg\Frame\Database;
 
 class Redis
 {

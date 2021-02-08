@@ -1,6 +1,6 @@
 <?php
 
-namespace Gg\Kernel;
+namespace Gg\Frame\Kernel;
 
 use Components\Jwt;
 use Gg\Database\Database;
